@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/himanshi67)
 <h1 align="center">Hi 👋, I'm Himanshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112&dl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshi67&label=Profile%20views&color=0e75b6&style=flat" alt="himanshi67" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android , Python**
+- 💬 Ask me about **Android , Python ,AI/ML**
 
 - 📫 How to reach me **himanshiv8950@gmail.com**
 
